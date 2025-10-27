@@ -63,20 +63,14 @@ Concepts: Loops, Arrays, Sets, Randomization, and Input Handling
 # ▶️ How to Run
 Clone the Repository
 
-bash
-Copy code
 git clone https://github.com/Hetvi11107/Word-Guess-Game.git
 cd Word-Guess-Game
+
 Compile the Program
+    javac WordGuessGame.java
 
-bash
-Copy code
-javac WordGuessGame.java
 Run the Game
-
-bash
-Copy code
-java WordGuessGame
+    java WordGuessGame
 
 # 📁 Project Structure
 Word-Guess-Game/
@@ -95,7 +89,7 @@ Keep score across multiple rounds
 # 🧑‍💻 Author
 Hetvi11107
 📍 Java Developer | Student | Tech Enthusiast
-🔗 GitHub Profile
+🔗 GitHub Profile https://github.com/Hetvi11107
 
 
 
